@@ -1,0 +1,7 @@
+An API that returns people who are listed as either living in London, or whose current coordinates are within 50 miles of London.
+
+
+clone the repo
+npm install
+npm start
+Server will be running on http://localhost:8001
